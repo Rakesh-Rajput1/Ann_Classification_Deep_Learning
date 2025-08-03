@@ -34,22 +34,19 @@ Lightweight and deployable via Streamlit.
 ⚡ How to Run Locally
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
-Install dependencies:
 
-bash
-Copy
-Edit
+
+Install dependencies:
 pip install -r requirements.txt
+
+
 Run the app:
 
-bash
-Copy
-Edit
 streamlit run app.py
+
+
 📬 Connect
+If you have any feedback, suggestions, or questions, feel free to raise an issue or contribute!
 If you have any feedback, suggestions, or questions, feel free to raise an issue or contribute!
